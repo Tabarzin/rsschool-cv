@@ -31,7 +31,7 @@ function generateHashtag (str) {
 
 ```
 ### Education
-* Moscow State University, Insitute of Asian and Studies
+* Moscow State University
 * Freecodecamp.org
 * Hexlet (free cources)
 
