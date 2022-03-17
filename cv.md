@@ -1,6 +1,6 @@
 ## Rustam Sabirov
 
-I am an Orientalist by education, but I have worked a lot as an editor in various magazines and web resources.  Many of them were related to technology, video games and programming. I've learned the basics of HTML and CSS for a long time, but I was afraid to take up programming. Many years ago I tried PHP and decided that it was very difficult and not for me.  But some time ago I started learning Javascript and I really liked it. I want to continue and become a skillfull engeneer.
+I am an Orientalist by education, but I have worked a lot as an editor in various magazines and web projects.  Many of them were related to technology, video games and programming. I've learned the basics of HTML and CSS for a long time, but I was afraid to take up programming. Many years ago I tried PHP and decided that it was very difficult and not for me.  But some time ago I started learning Javascript and I really liked it. I want to continue and become a skillfull engeneer.
 
 ### Skills
 * HTML, CSS, JavaScript, Git
